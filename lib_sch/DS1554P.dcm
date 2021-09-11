@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M48T37V
+D 3.3V 32 Kbit x 8byte Integrated ultra low power SRAM, real-time clock, power-fail control circuit, and replaceable battery
+K M48T37Y RTC
+F https://www.st.com/resource/en/datasheet/m48t37y.pdf
+$ENDCMP
+#
+$CMP M48T37Y
+D 5.0V 32 Kbit x 8byte Integrated ultra low power SRAM, real-time clock, power-fail control circuit, and replaceable battery
+K M48T37V, M48T37Y, RTC
+F https://www.st.com/resource/en/datasheet/m48t37y.pdf
+$ENDCMP
+#
+#End Doc Library
