@@ -1,7 +1,7 @@
 # NVRAM/IDPROM Replacement for M48T59Y Real Time Clock
 
-This project intends to design a timing and register compatible integrated
-circuit to replace the now obsoleted M48T59Y realtime clock chip used in
+This project intends to design a timing and register compatible module
+to replace the now obsoleted M48T59Y realtime clock chip used in
 the following Sun Microsystems computers:
 
 | WORKSTATION SYSTEM | HOSTID   | COMPONENT | SUN PART    |
